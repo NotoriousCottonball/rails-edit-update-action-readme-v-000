@@ -7,4 +7,3 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 
-@article = Article.create(title: "My Article", description: "My article desc")
